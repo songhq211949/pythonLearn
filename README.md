@@ -1,2 +1,2 @@
 # pythonLearn
-learn pathon 
+learn python 
